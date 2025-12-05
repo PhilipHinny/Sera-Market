@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "engines": {
-    "node": ">=18.17.0",
+    "node": ">=20.9.0",
     "pnpm": ">=8.0.0"
   },
   "dependencies": {
